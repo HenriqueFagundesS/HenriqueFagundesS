@@ -1,7 +1,7 @@
-# Olá, eu sou o Henrique! 👋
+# Olá, eu sou o Henrique! 
 
-Sou estudante de programação, apaixonado por tecnologia e sempre aprendendo algo novo.
-Atualmente estou focado em desenvolvimento **Front-end** e construindo meus primeiros projetos do zero.
+Sou estudante de tecnologia, sempre aprendendo algo novo.
+Atualmente estou focado em desenvolvimento full stack e construindo meus primeiros projetos do zero.
 
 ---
 
@@ -9,8 +9,8 @@ Atualmente estou focado em desenvolvimento **Front-end** e construindo meus prim
 
 - 🌱 Estou aprendendo **HTML, CSS e JavaScript**
 - 💻 Gosto de transformar ideias em páginas web
-- 🎯 Meu objetivo é me tornar um desenvolvedor completo
-- 📍 Brasil
+- 🎯 Meu objetivo é me tornar um profissional completo
+- 📍 São Paulo, SP
 
 ---
 
@@ -26,10 +26,10 @@ Atualmente estou focado em desenvolvimento **Front-end** e construindo meus prim
 
 | Projeto | Descrição | Tecnologia |
 |---|---|---|
-| 🍕 [ProjetoPizzaFront](https://github.com/HenriqueFagundesS/ProjetoPizzaFront) | Interface de uma pizzaria | HTML |
-| 🍕 [ProjetoPizzaBack](https://github.com/HenriqueFagundesS/ProjetoPizzaBack) | Back-end da pizzaria | HTML |
-| 🎬 [ProjetoFilmes](https://github.com/HenriqueFagundesS/ProjetoFilmes) | Site de filmes | HTML |
-| 🧰 [EPIS](https://github.com/HenriqueFagundesS/EPIS) | Projeto de equipamentos de proteção | HTML |
+| 🍕 [ProjetoPizzaFront](https://github.com/HenriqueFagundesS/ProjetoPizzaFront) | Interface de uma pizzaria | HTML | CSS | NodeJS 
+| 🍕 [ProjetoPizzaBack](https://github.com/HenriqueFagundesS/ProjetoPizzaBack) | Back-end da pizzaria | HTML | CSS | NodeJS | Rest Apis | JavaScript | SQL
+| 🎬 [ProjetoFilmes](https://github.com/HenriqueFagundesS/ProjetoFilmes) | Site de filmes | HTML | CSS
+| 🧰 [EPIS](https://github.com/HenriqueFagundesS/EPIS) | Projeto de equipamentos de proteção | HTML | 
 | 🎨 [Portfólio](https://github.com/HenriqueFagundesS/portifolio-main-main) | Meu portfólio pessoal | CSS |
 
 ---
@@ -42,12 +42,11 @@ Atualmente estou focado em desenvolvimento **Front-end** e construindo meus prim
 
 ---
 
-## 📫 Contato
+## 📫 
 
 Fique à vontade para explorar meus repositórios e acompanhar minha evolução! 😄
 
 [![GitHub](https://img.shields.io/badge/GitHub-HenriqueFagundesS-181717?style=for-the-badge&logo=github)](https://github.com/HenriqueFagundesS)
 
----
 
-⭐ *"Todo expert já foi um dia um iniciante."*
+
