@@ -1,7 +1,7 @@
 # Olá, eu sou o Henrique! 
 
 Sou estudante de tecnologia, sempre aprendendo algo novo.
-Atualmente estou focado em desenvolvimento full stack e construindo meus primeiros projetos do zero.
+Atualmente estou focado em desenvolvimento full stack.
 
 ---
 
