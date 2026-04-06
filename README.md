@@ -34,13 +34,7 @@ Atualmente estou focado em desenvolvimento full stack e construindo meus primeir
 
 ---
 
-## 📊 Estatísticas do GitHub
 
-![Henrique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenriqueFagundesS&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFagundesS&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 📫 
 
