@@ -38,8 +38,6 @@ Atualmente estou focado em desenvolvimento full stack.
 
 ## 📫 
 
-Fique à vontade para explorar meus repositórios e acompanhar minha evolução! 😄
-
 [![GitHub](https://img.shields.io/badge/GitHub-HenriqueFagundesS-181717?style=for-the-badge&logo=github)](https://github.com/HenriqueFagundesS)
 
 
