@@ -34,13 +34,7 @@ Atualmente estou focado em desenvolvimento full stack.
 | 🧰 [EPIS](https://github.com/HenriqueFagundesS/EPIS) | Projeto de equipamentos de proteção | HTML | 
 | 🎨 [Portfólio](https://github.com/HenriqueFagundesS/portifolio-main-main) | Meu portfólio pessoal | CSS |
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=HenriqueFagundesS&theme=tokyonight"/>
-</p>
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueFagundesS&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFagundesS&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
