@@ -12,7 +12,7 @@ Atualmente estou focado em desenvolvimento full stack.
 - 🎯 Meu objetivo é me tornar um profissional completo
 - 📍 São Paulo, SP
 ## 🔗 Portfólio
-👉 https://portfoliohenrique-jet.vercel.app
+👉 portfoliohenrique.up.railway.app
 
 ---
 
