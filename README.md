@@ -12,7 +12,7 @@ Atualmente estou focado em desenvolvimento full stack.
 - 🎯 Meu objetivo é me tornar um profissional completo
 - 📍 São Paulo, SP
 ## 🔗 Portfólio
-👉 portfoliohenrique.up.railway.app
+👉 http://portfoliohenrique.up.railway.app
 
 ---
 
